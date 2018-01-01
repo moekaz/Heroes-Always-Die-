@@ -1,0 +1,2 @@
+1 pixel difference on the x-axis and y-axis between each tile 
+48 X 48 is the size of each tile
