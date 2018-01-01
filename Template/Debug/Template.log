@@ -1,0 +1,129 @@
+﻿  View.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(68): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(145): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.cpp(221): warning C4018: '<': signed/unsigned mismatch
+  Sniper.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\sniper.cpp(22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\sniper.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  RocketLauncher.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\rocketlauncher.cpp(29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\rocketlauncher.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Rocket.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\rocket.cpp(42): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\player.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Platform.cpp
+  Block.cpp
+  model.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(487): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(504): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(531): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(538): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(545): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(588): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(596): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(606): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(630): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(635): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(640): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.cpp(685): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Material.cpp
+  Manager.cpp
+  main.cpp
+  inventory.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(15): warning C4018: '>': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(22): warning C4018: '>': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(152): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\inventory.cpp(177): warning C4018: '<': signed/unsigned mismatch
+  HealingStaff.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\healingstaff.cpp(20): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  gunBullets.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gunbullets.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gunbullets.cpp(29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Gun.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gun.cpp(23): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gun.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Grenade.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\grenade.cpp(44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\game.cpp(20): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+  Explosion.cpp
+  enemy.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\enemy.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  Craftable.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\craftable.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\craftable.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Controller.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.cpp(366): warning C4018: '>=': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.cpp(370): warning C4018: '>=': signed/unsigned mismatch
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.cpp(374): warning C4018: '>=': signed/unsigned mismatch
+  camera.cpp
+  boss.cpp
+  Generating Code...
+  Template.vcxproj -> C:\Users\mohamed\Documents\Visual Studio 2015\Projects\Project\Debug\Project.exe
+  Template.vcxproj -> C:\Users\mohamed\Documents\Visual Studio 2015\Projects\Project\Debug\Project.pdb (Full PDB)
