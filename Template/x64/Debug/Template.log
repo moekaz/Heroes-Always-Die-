@@ -1,0 +1,33 @@
+﻿  View.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\view.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  RocketLauncher.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\rocketlauncher.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Rocket.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\updateable.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\player.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Platform.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\player.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Block.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\block.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  model.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\model.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Manager.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\manager.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\game.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  inventory.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\renderable.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  gunBullets.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gunbullets.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Gun.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\gun.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\game.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  enemy.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\updateable.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Controller.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\controller.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  camera.cpp
+c:\users\mohamed\documents\visual studio 2015\projects\project\template\updateable.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
